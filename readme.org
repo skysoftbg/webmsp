@@ -1,0 +1,12 @@
+* Installation
+
+This package uses yarn v3 (Berry). To install, clone the repo and run the following commands.
+
+#+begin_src bash
+yarn
+yarn start
+#+end_src
+
+* Template features
+- [ ] Routing
+- [ ] Localstorage access
